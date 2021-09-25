@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\bin\Debug\EFACodeChallenge9.25.exe.config
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\bin\Debug\EFACodeChallenge9.25.exe
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\bin\Debug\EFACodeChallenge9.25.pdb
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\obj\Debug\EFACodeChallenge9.25.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\obj\Debug\EFACodeChallenge9.25.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\obj\Debug\EFACodeChallenge9.25.exe
+C:\ElevenFiftyProjects\GoldBadge\EFACodeChallenge9.25\EFACodeChallenge9.25\obj\Debug\EFACodeChallenge9.25.pdb
